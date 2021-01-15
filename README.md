@@ -1,0 +1,1 @@
+# CNN-for-RQD-calculation
